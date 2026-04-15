@@ -1,4 +1,6 @@
-# Chat Application in Java
+
+Modified by Vivek Sharma
+#Java-based client-server chat application
 
 ## Overview
 [cite_start]A real-time communication platform developed using Java that enables users to communicate over the internet[cite: 492, 493]. [cite_start]This project demonstrates the effective use of networking, multi-threading, and GUI design[cite: 489, 615].
